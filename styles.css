@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+body{
+    background-size:cover;
+    background-image: url(Assets/background_image.jpg);
+    background-size: 210lvh;
+    }
+
+.nav_bar{
+    color:white ;
+    background-color:black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position:absolute top;
+    
+}
+
+.logo{
+    font-size: 5vh;
+    margin: 2rem;
+}
+
+.title{
+    font-size: 10vh;
+    margin: 2rem;
+}
+
+.nav_link ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.nav_link li{
+    list-style: none;
+}
+
+.nav_link li a{
+    text-decoration: none;
+    font-size: 5vh;
+    color: white;
+    padding: 1rem;
+    display: block;
+}
+
+.nav_link li:hover{
+    background-color: #555;
+}
+
+.toggle_button{
+    position: absolute;
+    top: .75rem;
+    right: 1rem;
+    display:none;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 31px;
+    height: 21px;
+}
+
+.toggle_button .bar{
+    height: 3px;
+    width: 100%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+@media(max-width:500px){
+    .toggle_button{
+        display: flex;
+    }
+    .nav_link{
+        display: none;
+    }
+    
+}
+
+#image_1{
+    margin-top: 1cm;
+    margin-left: 2cm;
+    width: 280px;
+    height: 388px;
+    flex-shrink: -5;
+}
+
+#image_2{
+    margin-top: 1cm;
+    margin-left: 2cm;
+    width: 417px;
+    height: 626;
+}
+
+#two{
+    color:white ;
+    text-align: start;
+    margin-left: 2cm;
+    font-weight:900v;
+    margin-top: 2cm;
+    font-size: 7vh;
+    text-decoration: underline;
+    
+}
+
+#three{
+    color:white ;
+    text-align: start;
+    margin-left: 2cm;
+    font-weight:900v;
+    margin-top: 1cm;
+    font-size: 5vh;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-right: 1cm;
+}
+#hyperlink_1{
+    color: #82B7DC;
+    font-style: italic;
+}
+
+
+
+.fa { 
+    padding: 20px; 
+    font-size: 60px; 
+    width: 60px; 
+    text-decoration: none; 
+    margin: 5px 80px; 
+    margin-left: 7cm;
+    line-height: 2;
+    align-items: center;
+    font-size: 6vh;
+} 
