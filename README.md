@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinlessrook&label=Profile%20views&color=0e75b6&style=flat" alt="sinlessrook" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinlessrook" alt="sinlessrook" /></a> </p>
+
 
 - 👨‍💻 Visit My [Portfolio](https://portfolio-nu-beige-64.vercel.app/)
 
