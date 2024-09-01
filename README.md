@@ -8,9 +8,9 @@
 
 - 👨‍💻 Visit My [Portfolio](https://portfolio-nu-beige-64.vercel.app/)
 
-- 💬 Ask me about **react,flutter,python**
+- 💬 Ask me about **React Flutter Python**
 
-- 📫 How to reach me **www.linkedin.com/in/adithyan-a-s/**
+- 📫 How to reach me **[Linkedin](www.linkedin.com/in/adithyan-a-s/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
