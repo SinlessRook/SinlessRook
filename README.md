@@ -1,6 +1,8 @@
+<img width=100% src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjUxNzkwNzEsIm5iZiI6MTcyNTE3ODc3MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTAxVDA4MTkzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTU5MWJkNzY2ZTdjYjAzZDQ3M2M1YTkyNTBiZTJhYTJmYWY4ZjQ1ZTVjOTQ2M2EzMDliNGYzNzE4NzAzODcyZDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.G4EhEXumUAO0hacqiRQi1IMN90L_h0sRqOXOvh50dMQ" />
+
 <h1 align="center">Hi 👋, I'm Adithyan A S</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" width=400px height=400px alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+<img align="right" width=300px height=300px alt="side_sticker" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinlessrook&label=Profile%20views&color=0e75b6&style=flat" alt="sinlessrook" /> </p>
 
