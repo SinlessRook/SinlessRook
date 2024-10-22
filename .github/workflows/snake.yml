@@ -1,41 +1,24 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs at 12am UTC every day
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs once daily at midnight
+  workflow_dispatch:  # Allows you to manually run this action from GitHub Actions tab
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout the repository
-        uses: actions/checkout@v2
-
-      - name: Generate the snake animation
-        uses: Platane/snk@v2
+      - uses: actions/checkout@v2
+      - name: Generate Snake Animation
+        uses: Platane/snk@v2.0.0
         with:
-          github_user_name: SinlessRook
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
-      - name: Push the generated snake.svg
+      - name: Push Snake to repository
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
-
-  deploy:
-    runs-on: ubuntu-latest
-    needs: generate
-    steps:
-      - name: Deploy the generated snake.svg to the README
-        run: |
-          git fetch
-          git checkout output
-          git merge main --allow-unrelated-histories -m "Merging output branch"
-          git add -A
-          git commit -m "Update snake animation"
-          git push origin main
+          branch: main
+          file: dist/snake.svg
