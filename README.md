@@ -1,3 +1,4 @@
+<h1>Hey👋,I'm Adithyan A S</h1>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -10,21 +11,15 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=sinlessrook&label=Profile%20views&color=0e75b6&style=flat" alt="sinlessrook" /> 
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Adithyan A S<br><br>- 📚 I'm currently learning django<br>- ⚡ In my free time I sac the roook</p>
+<p align="left">- 📚 I'm currently learning django<br>- ⚡ In my free time I sac the roook</p>
 
 ###
 
