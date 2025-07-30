@@ -71,7 +71,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sinlessrook&theme=highcontrast&hide_border=true&short_numbers=true" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sinlessrook&theme=react&show=reviews,prs_merged,prs_merged_percentage" alt="streak graph"  />
 </div>
 
 ###
