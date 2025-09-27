@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning django<br>- ⚡ In my free time I sac the roook</p>
+<p align="left">- 📚 I'm currently learning cyber-security<br>- ⚡ In my free time I sac the roook</p>
 
 ###
 
