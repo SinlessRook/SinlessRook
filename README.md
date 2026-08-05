@@ -64,18 +64,4 @@
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
 </div>
 
-###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinlessrook&theme=react&show=reviews,prs_merged,prs_merged_percentage" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinlessrook&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
